@@ -23,5 +23,4 @@
 - Watching Anime
 - Reading Manga
   
-##  Contact me 📝:
 
