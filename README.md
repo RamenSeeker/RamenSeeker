@@ -22,5 +22,5 @@
 - Gaming
 - Watching Anime
 - Reading Manga
-  
+- Cooking
 
