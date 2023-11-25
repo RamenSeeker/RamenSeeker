@@ -1,7 +1,8 @@
   
 <h1 >Hi there im Alberto👋</h1> 
-<img src="https://gifdb.com/images/thumbnail/flying-birds-above-the-sea-anime-aesthetic-57jj9md4i2o4d3ey.gif" alt="Ocean gif" width="1000px" align="center">
-<h2>About ME💬</h2> 
+<!<img src="https://moewalls.com/wp-content/uploads/2021/06/half-life-2-portal-storm-thumb.jpg" alt="Ocean gif" width="1000px" align="center">
+<h2>About ME💬</h2>
+
  Hello im Alberto from :it: currently dedicating to become a Full Stack Developer ☄️
 
  
