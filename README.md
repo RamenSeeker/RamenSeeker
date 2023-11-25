@@ -10,13 +10,14 @@
 - Css
 - Javascript
 - Figma
+- Java
 
 ##  Personal Projects ⛳ :
 - Coming soon...
 
 ##  Learning📙 :
-- Mern Stack (MongoDB, Express, React, Node)
-- Ux Design
+- Spring Boot
+- Angular
 
 ##  Hobbies 👾 : 
 - Gaming
