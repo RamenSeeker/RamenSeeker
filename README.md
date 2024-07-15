@@ -3,7 +3,7 @@
 <!<img src="https://moewalls.com/wp-content/uploads/2021/06/half-life-2-portal-storm-thumb.jpg" alt="Ocean gif" width="1000px" align="center">
 <h2>About ME💬</h2>
 
- Hello im Alberto from :it: currently dedicating to become a Full Stack Developer ☄️
+ Hello im Alberto from :it: and im working as Full Stack Developer ☄️
 
  
 ##  Languages and tools💻🛠 :
@@ -12,7 +12,6 @@
 - Javascript
 - Figma
 - Java
-- Spring Boot
 
 ##  Personal Projects ⛳ :
 - Work in progress...
@@ -20,6 +19,7 @@
 ##  Learning📙 :
 - Angular
 - Amazon Web Services
+- Spring Boot
 
 ##  Hobbies 👾 : 
 - Gaming
