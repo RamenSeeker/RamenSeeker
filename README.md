@@ -12,6 +12,7 @@
 - Javascript
 - Figma
 - Java
+- Spring Boot
 
 ##  Personal Projects ⛳ :
 - Work in progress...
@@ -19,7 +20,7 @@
 ##  Learning📙 :
 - Angular
 - Amazon Web Services
-- Spring Boot
+
 
 ##  Hobbies 👾 : 
 - Gaming
