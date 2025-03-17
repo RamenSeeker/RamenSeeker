@@ -13,13 +13,14 @@
 - Figma
 - Java
 - Spring Boot
+- Angular
 
 ##  Personal Projects ⛳ :
 - Work in progress...
 
 ##  Learning📙 :
-- Angular
-- Amazon Web Services
+- C#
+- Amazon Web Service
 
 
 ##  Hobbies 👾 : 
